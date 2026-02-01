@@ -4,6 +4,10 @@ Dashboard Power BI et visualisations de donnees pour le Stade Brestois 29.
 
 L'objectif : creer un reporting visuel propre et rapide a partir des donnees Transfermarkt, sans y passer trop de temps.
 
+<p align="center">
+  <img src="images/ajorque.png" width="90%" />
+</p>
+
 ## Contenu
 
 - **foot.pbix** : Dashboard Power BI avec les stats des joueurs (poste, age, taille, matchs, buts, valeur marchande)
@@ -30,4 +34,8 @@ Heatmap des corners et coups francs :
 
 <p align="center">
   <img src="images/heatmap.jpg" width="75%" />
+</p>
+
+<p align="center">
+  <img src="images/lees_melou.png" width="90%" />
 </p>
